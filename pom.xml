@@ -31,6 +31,6 @@
   </modules>
 
   <properties>
-    <dependencies.enav.version>0.6-SNAPSHOT</dependencies.enav.version>
+    <dependencies.enav.version>0.6</dependencies.enav.version>
   </properties>
 </project>
